@@ -1,4 +1,13 @@
+favorite movies:
 dil chahata h
 kalki
 chak de india
 karan arjun
+
+favorite foods:
+chickens
+paneer
+pasta
+pizza
+lime soda
+sugerless vanilla
